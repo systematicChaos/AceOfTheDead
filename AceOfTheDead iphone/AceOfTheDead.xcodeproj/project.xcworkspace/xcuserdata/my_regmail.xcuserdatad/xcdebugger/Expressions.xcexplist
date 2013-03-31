@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Zombie changeDirection:]:Zombie.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentActiveAnimation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Zombie buildFramesForAnimationSmoothing:betweenCurrentDirection:andNextDirection:]:Zombie.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentActiveAnimation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

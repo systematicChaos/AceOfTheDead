@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>walk</key>
+	<dict/>
+	<key>animationFrames</key>
+	<string>00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17.</string>
+	<key>delay</key>
+	<real>0.1</real>
+	<key>filenamePrefix</key>
+	<string>walk</string>
+</dict>
+</plist>

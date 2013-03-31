@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>zombieFight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {60, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{62, 130}, {60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {60, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 130}, {60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {62, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 0}, {62, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {62, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{62, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{190, 0}, {62, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {62, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 128}, {62, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 66}, {64, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {62, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 64}, {62, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {62, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {62, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {60, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{60, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{64, 0}, {60, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieFight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 66}, {64, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>fighting</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>fighting</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>fight</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>zombieFight</string>
+		<key>delay</key>
+		<real>0.06</real>
+		<key>animationFrames</key>
+		<string>00,01,02,03,04,05,06,07,08,09</string>
+	</dict>
+</dict>
+</plist>

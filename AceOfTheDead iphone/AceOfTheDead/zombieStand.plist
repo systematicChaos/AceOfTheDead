@@ -1,0 +1,4150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stand</key>
+	<dict>
+		<key>filenamePrefix</key>
+		<string>zombieStand</string>
+		<key>delay</key>
+		<real>0.06</real>
+		<key>animationFrames</key>
+		<string>00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>zombieStandDownDownDown0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 202}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 50}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 52}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 206}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 52}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 202}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 102}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 152}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 0}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 102}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 202}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 150}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 52}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 202}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 156}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 152}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 4}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 102}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownDown0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 252}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 252}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 444}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{104, 446}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 348}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{224, 308}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 0}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 254}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 356}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 288}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 446}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 446}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 144}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{104, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 300}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 0}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 52}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 52}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 100}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 200}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 150}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{110, 100}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 0}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 52}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 104}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 0}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 0}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 0}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {26, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 0}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 0}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 150}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownDownRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 200}, {24, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 492}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 452}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 404}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 344}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 48}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 444}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{284, 452}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 240}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{24, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{144, 540}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{264, 500}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 288}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 440}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {20, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 302}, {20, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {20, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 50}, {20, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{356, 100}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 200}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 0}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{224, 256}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 156}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 150}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 100}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 0}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 50}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 152}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 104}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 0}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 256}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 52}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {22, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 52}, {22, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandDownRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {22, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 0}, {22, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{176, 588}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 548}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 0}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 542}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 588}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 536}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 542}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 46}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 104}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{284, 548}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 528}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{198, 588}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 104}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 104}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{262, 548}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 590}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 548}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandLeftLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 9}, {20, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{20, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 92}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{374, 198}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{374, 246}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{398, 384}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 494}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{374, 294}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 500}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 528}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{354, 494}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{22, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{398, 488}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 548}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{310, 500}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 488}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{110, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{88, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandRightRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {20, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{44, 590}, {20, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 500}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 452}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 540}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{24, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 384}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 192}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 492}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 352}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{144, 492}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 392}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 336}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 542}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 540}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 480}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{398, 336}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 446}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{26, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 192}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{244, 356}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 444}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 296}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 396}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 0}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 432}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 494}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 344}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 540}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 492}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 144}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {22, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 440}, {22, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{318, 150}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 50}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 204}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 0}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 154}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 50}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 104}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 202}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 252}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 100}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 204}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 252}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 252}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 152}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {26, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 152}, {26, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 0}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 100}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 256}, {24, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 96}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 396}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 446}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 96}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 208}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 48}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 348}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 248}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{26, 446}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 240}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 444}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 396}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 444}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 398}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 404}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 9}, {24, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 396}, {24, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 252}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 200}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 300}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 52}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 308}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 300}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 302}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 254}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 52}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 350}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{368, 150}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 348}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombieStandUpUpUp0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 10}, {26, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 252}, {26, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>zombieStand</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>zombieStand_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>zombieStand_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

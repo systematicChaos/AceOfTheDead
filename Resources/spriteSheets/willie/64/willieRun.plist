@@ -1,0 +1,4790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>willyRunDownDownDown0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 11}, {56, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{338, 112}, {56, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 12}, {56, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 398}, {56, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 14}, {56, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{518, 218}, {56, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 17}, {56, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{56, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 500}, {56, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 20}, {54, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 460}, {54, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 18}, {50, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{50, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{872, 860}, {50, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 14}, {50, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 392}, {50, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 10}, {52, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSize</key>
+			<string>{52, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{464, 218}, {52, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 8}, {52, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{282, 0}, {52, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 8}, {52, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 194}, {52, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 10}, {52, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{400, 0}, {52, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 14}, {50, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{50, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{518, 324}, {50, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 18}, {50, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{50, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{586, 106}, {50, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 22}, {50, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1028, 438}, {50, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 22}, {54, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1084, 260}, {54, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 19}, {58, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{58, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 924}, {58, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 16}, {56, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{576, 316}, {56, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownDown0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 13}, {56, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{56, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 398}, {56, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 16}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 638}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 16}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 738}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 20}, {54, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -2}</string>
+			<key>spriteSize</key>
+			<string>{54, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 678}, {54, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 24}, {56, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 872}, {56, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 27}, {60, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -2}</string>
+			<key>spriteSize</key>
+			<string>{60, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{586, 820}, {60, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 26}, {60, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{60, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 1000}, {60, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 22}, {58, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 1002}, {58, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 19}, {54, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{698, 0}, {54, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 16}, {54, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 0}, {54, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 16}, {54, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{530, 108}, {54, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 18}, {52, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 534}, {52, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 21}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 400}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 25}, {56, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{56, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{58, 1328}, {56, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 29}, {58, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -5}</string>
+			<key>spriteSize</key>
+			<string>{58, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{368, 1168}, {58, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 29}, {58, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{58, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{700, 794}, {58, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 25}, {56, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{56, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 832}, {56, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 21}, {54, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{54, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 370}, {54, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 18}, {54, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{54, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{746, 586}, {54, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 7}, {64, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {64, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 7}, {64, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 1}</string>
+			<key>spriteSize</key>
+			<string>{64, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 100}, {64, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 9}, {62, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{336, 0}, {62, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 12}, {58, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 1}</string>
+			<key>spriteSize</key>
+			<string>{58, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{488, 430}, {58, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 15}, {54, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 390}, {54, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 14}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 5}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 560}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 9}, {52, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 8}</string>
+			<key>spriteSize</key>
+			<string>{52, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{808, 486}, {52, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 5}, {56, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 7}</string>
+			<key>spriteSize</key>
+			<string>{56, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{470, 614}, {56, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 3}, {58, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 6}</string>
+			<key>spriteSize</key>
+			<string>{58, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 292}, {58, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 2}, {60, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 6}</string>
+			<key>spriteSize</key>
+			<string>{60, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 100}, {60, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 4}, {62, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 5}</string>
+			<key>spriteSize</key>
+			<string>{62, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 292}, {62, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 7}, {62, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{518, 0}, {62, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 11}, {62, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 620}, {62, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 15}, {56, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 4}</string>
+			<key>spriteSize</key>
+			<string>{56, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 1318}, {56, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 15}, {56, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 4}</string>
+			<key>spriteSize</key>
+			<string>{56, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1328}, {56, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 13}, {58, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 2}</string>
+			<key>spriteSize</key>
+			<string>{58, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 720}, {58, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 10}, {62, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 0}, {62, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownDownRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 8}, {64, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 116}, {64, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 16}, {70, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 6}</string>
+			<key>spriteSize</key>
+			<string>{70, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 312}, {70, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 16}, {66, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 5}</string>
+			<key>spriteSize</key>
+			<string>{66, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{276, 598}, {66, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 18}, {58, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 4}</string>
+			<key>spriteSize</key>
+			<string>{58, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 1142}, {58, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 22}, {52, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 3}</string>
+			<key>spriteSize</key>
+			<string>{52, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1084, 344}, {52, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 25}, {58, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 1}</string>
+			<key>spriteSize</key>
+			<string>{58, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 1240}, {58, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 24}, {62, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 952}, {62, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 21}, {64, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -1}</string>
+			<key>spriteSize</key>
+			<string>{64, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 784}, {64, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 18}, {62, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 874}, {62, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 16}, {60, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{60, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{62, 1054}, {60, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {60, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{60, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 1050}, {60, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 18}, {58, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{58, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 490}, {58, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 21}, {60, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{60, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 1048}, {60, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 25}, {62, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -3}</string>
+			<key>spriteSize</key>
+			<string>{62, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 876}, {62, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {62, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -3}</string>
+			<key>spriteSize</key>
+			<string>{62, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{64, 970}, {62, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 28}, {58, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -2}</string>
+			<key>spriteSize</key>
+			<string>{58, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{60, 1248}, {58, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 25}, {58, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{58, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 1236}, {58, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 21}, {62, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSize</key>
+			<string>{62, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 970}, {62, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {70, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 5}</string>
+			<key>spriteSize</key>
+			<string>{70, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 486}, {70, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 5}, {66, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 5}</string>
+			<key>spriteSize</key>
+			<string>{66, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 112}, {66, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 6}, {64, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 5}</string>
+			<key>spriteSize</key>
+			<string>{64, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{464, 110}, {64, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 8}, {58, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 4}</string>
+			<key>spriteSize</key>
+			<string>{58, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{410, 614}, {58, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 11}, {54, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 4}</string>
+			<key>spriteSize</key>
+			<string>{54, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{698, 200}, {54, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 13}, {52, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{17, 4}</string>
+			<key>spriteSize</key>
+			<string>{52, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{808, 582}, {52, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 12}, {56, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 6}</string>
+			<key>spriteSize</key>
+			<string>{56, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 1228}, {56, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 8}, {58, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 10}</string>
+			<key>spriteSize</key>
+			<string>{58, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{586, 900}, {58, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 5}, {64, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 13}</string>
+			<key>spriteSize</key>
+			<string>{64, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 784}, {64, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 2}, {70, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 14}</string>
+			<key>spriteSize</key>
+			<string>{70, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 194}, {70, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 1}, {70, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 13}</string>
+			<key>spriteSize</key>
+			<string>{70, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{74, 298}, {70, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 2}, {70, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 12}</string>
+			<key>spriteSize</key>
+			<string>{70, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 318}, {70, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 5}, {68, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 10}</string>
+			<key>spriteSize</key>
+			<string>{68, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 0}, {68, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 8}, {64, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 10}</string>
+			<key>spriteSize</key>
+			<string>{64, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{358, 508}, {64, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 12}, {56, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 8}</string>
+			<key>spriteSize</key>
+			<string>{56, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 1318}, {56, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 12}, {54, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{17, 6}</string>
+			<key>spriteSize</key>
+			<string>{54, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{870, 0}, {54, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 10}, {56, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 5}</string>
+			<key>spriteSize</key>
+			<string>{56, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{470, 720}, {56, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 8}, {62, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 508}, {62, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunDownRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 6}, {66, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 5}</string>
+			<key>spriteSize</key>
+			<string>{66, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 580}, {66, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 16}, {72, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 5}</string>
+			<key>spriteSize</key>
+			<string>{72, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 230}, {72, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {66, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 6}</string>
+			<key>spriteSize</key>
+			<string>{66, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 678}, {66, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 16}, {60, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 6}</string>
+			<key>spriteSize</key>
+			<string>{60, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{524, 838}, {60, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 18}, {54, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 4}</string>
+			<key>spriteSize</key>
+			<string>{54, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 548}, {54, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 21}, {52, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 3}</string>
+			<key>spriteSize</key>
+			<string>{52, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1094, 168}, {52, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 21}, {54, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 3}</string>
+			<key>spriteSize</key>
+			<string>{54, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1144, 0}, {54, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 18}, {58, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 5}</string>
+			<key>spriteSize</key>
+			<string>{58, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{570, 994}, {58, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 16}, {66, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 6}</string>
+			<key>spriteSize</key>
+			<string>{66, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 698}, {66, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 15}, {70, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 7}</string>
+			<key>spriteSize</key>
+			<string>{70, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 494}, {70, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 16}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 7}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{74, 214}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 18}, {66, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 5}</string>
+			<key>spriteSize</key>
+			<string>{66, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{68, 688}, {66, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 20}, {62, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 972}, {62, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 22}, {56, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 2}</string>
+			<key>spriteSize</key>
+			<string>{56, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{498, 1100}, {56, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 25}, {54, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{978, 718}, {54, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 25}, {54, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1082, 424}, {54, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 22}, {54, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1094, 86}, {54, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 20}, {62, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 2}</string>
+			<key>spriteSize</key>
+			<string>{62, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{398, 818}, {62, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunLeftLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 18}, {70, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 4}</string>
+			<key>spriteSize</key>
+			<string>{70, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 512}, {70, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 7}, {72, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{72, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 100}, {72, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 8}, {66, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 10}</string>
+			<key>spriteSize</key>
+			<string>{66, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 576}, {66, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 9}, {60, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 9}</string>
+			<key>spriteSize</key>
+			<string>{60, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1154}, {60, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 11}, {52, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 8}</string>
+			<key>spriteSize</key>
+			<string>{52, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 0}, {52, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 13}, {52, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 7}</string>
+			<key>spriteSize</key>
+			<string>{52, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 278}, {52, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 12}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 7}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 376}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 9}, {58, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 8}</string>
+			<key>spriteSize</key>
+			<string>{58, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{810, 0}, {58, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 7}, {66, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 9}</string>
+			<key>spriteSize</key>
+			<string>{66, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 580}, {66, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 5}, {70, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 10}</string>
+			<key>spriteSize</key>
+			<string>{70, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 0}, {70, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 4}, {72, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{72, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 0}, {72, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 4}, {66, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{66, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 598}, {66, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 5}, {62, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 11}</string>
+			<key>spriteSize</key>
+			<string>{62, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 778}, {62, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 8}, {56, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 9}</string>
+			<key>spriteSize</key>
+			<string>{56, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{808, 192}, {56, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 11}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 8}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 468}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 12}, {52, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 7}</string>
+			<key>spriteSize</key>
+			<string>{52, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 186}, {52, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 10}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 9}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{870, 652}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 8}, {62, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 10}</string>
+			<key>spriteSize</key>
+			<string>{62, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 878}, {62, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunRightRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 7}, {70, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{70, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 400}, {70, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 15}, {68, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 1}</string>
+			<key>spriteSize</key>
+			<string>{68, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 404}, {68, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 14}, {64, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 2}</string>
+			<key>spriteSize</key>
+			<string>{64, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 766}, {64, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 14}, {60, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 3}</string>
+			<key>spriteSize</key>
+			<string>{60, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{462, 820}, {60, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 15}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, 4}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 94}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 16}, {52, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1038, 174}, {52, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 16}, {56, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 9}</string>
+			<key>spriteSize</key>
+			<string>{56, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 1322}, {56, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 15}, {58, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 10}</string>
+			<key>spriteSize</key>
+			<string>{58, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1248}, {58, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 14}, {64, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 8}</string>
+			<key>spriteSize</key>
+			<string>{64, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 692}, {64, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 14}, {70, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 7}</string>
+			<key>spriteSize</key>
+			<string>{70, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 224}, {70, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 15}, {70, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 7}</string>
+			<key>spriteSize</key>
+			<string>{70, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{144, 490}, {70, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 16}, {70, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 8}</string>
+			<key>spriteSize</key>
+			<string>{70, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 404}, {70, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 17}, {68, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 8}</string>
+			<key>spriteSize</key>
+			<string>{68, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 114}, {68, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 18}, {64, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 7}</string>
+			<key>spriteSize</key>
+			<string>{64, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 774}, {64, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 20}, {56, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, 4}</string>
+			<key>spriteSize</key>
+			<string>{56, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{356, 1250}, {56, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 20}, {54, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, 3}</string>
+			<key>spriteSize</key>
+			<string>{54, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1030, 524}, {54, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 18}, {56, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, 4}</string>
+			<key>spriteSize</key>
+			<string>{56, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{700, 954}, {56, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 17}, {62, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 2}</string>
+			<key>spriteSize</key>
+			<string>{62, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 308}, {62, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpLeftLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 16}, {68, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 1}</string>
+			<key>spriteSize</key>
+			<string>{68, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 502}, {68, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 10}, {70, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 10}</string>
+			<key>spriteSize</key>
+			<string>{70, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{144, 400}, {70, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 11}, {64, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 10}</string>
+			<key>spriteSize</key>
+			<string>{64, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{202, 772}, {64, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 12}, {58, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 11}</string>
+			<key>spriteSize</key>
+			<string>{58, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{700, 870}, {58, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 13}, {54, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 9}</string>
+			<key>spriteSize</key>
+			<string>{54, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1038, 88}, {54, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 15}, {58, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 6}</string>
+			<key>spriteSize</key>
+			<string>{58, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{378, 1080}, {58, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 15}, {62, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 6}</string>
+			<key>spriteSize</key>
+			<string>{62, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 860}, {62, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 14}, {64, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 6}</string>
+			<key>spriteSize</key>
+			<string>{64, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 602}, {64, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 12}, {62, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 720}, {62, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 11}, {60, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 4}</string>
+			<key>spriteSize</key>
+			<string>{60, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 1034}, {60, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {58, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{58, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 0}, {58, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 9}, {58, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 5}</string>
+			<key>spriteSize</key>
+			<string>{58, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 102}, {58, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 10}, {60, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 5}</string>
+			<key>spriteSize</key>
+			<string>{60, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 948}, {60, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 12}, {60, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 6}</string>
+			<key>spriteSize</key>
+			<string>{60, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 962}, {60, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 14}, {60, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 7}</string>
+			<key>spriteSize</key>
+			<string>{60, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{62, 1152}, {60, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 14}, {58, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 10}</string>
+			<key>spriteSize</key>
+			<string>{58, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 1094}, {58, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 12}, {58, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 11}</string>
+			<key>spriteSize</key>
+			<string>{58, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{504, 1016}, {58, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 11}, {62, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 10}</string>
+			<key>spriteSize</key>
+			<string>{62, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 864}, {62, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpRightRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 10}, {70, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 9}</string>
+			<key>spriteSize</key>
+			<string>{70, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 420}, {70, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {64, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{64, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 670}, {64, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 14}, {62, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{576, 214}, {62, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 13}, {60, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{60, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1054}, {60, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {56, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 5}</string>
+			<key>spriteSize</key>
+			<string>{56, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 778}, {56, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 14}, {54, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 9}</string>
+			<key>spriteSize</key>
+			<string>{54, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{978, 634}, {54, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 14}, {52, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 8}</string>
+			<key>spriteSize</key>
+			<string>{52, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1090, 0}, {52, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {52, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 9}</string>
+			<key>spriteSize</key>
+			<string>{52, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1028, 352}, {52, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 13}, {54, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 5}</string>
+			<key>spriteSize</key>
+			<string>{54, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{868, 96}, {54, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 14}, {58, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 3}</string>
+			<key>spriteSize</key>
+			<string>{58, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 294}, {58, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {60, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 3}</string>
+			<key>spriteSize</key>
+			<string>{60, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 1134}, {60, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 15}, {62, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 4}</string>
+			<key>spriteSize</key>
+			<string>{62, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 874}, {62, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 15}, {64, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 6}</string>
+			<key>spriteSize</key>
+			<string>{64, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 686}, {64, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 16}, {60, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 9}</string>
+			<key>spriteSize</key>
+			<string>{60, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{316, 1056}, {60, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 17}, {56, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 6}</string>
+			<key>spriteSize</key>
+			<string>{56, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{630, 1008}, {56, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 17}, {54, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 4}</string>
+			<key>spriteSize</key>
+			<string>{54, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{918, 548}, {54, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 16}, {56, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 5}</string>
+			<key>spriteSize</key>
+			<string>{56, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 90}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 15}, {60, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 2}</string>
+			<key>spriteSize</key>
+			<string>{60, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{386, 904}, {60, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpLeft0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 15}, {62, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 520}, {62, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 15}, {52, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 3}</string>
+			<key>spriteSize</key>
+			<string>{52, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{868, 190}, {52, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 15}, {50, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{50, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 278}, {50, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 15}, {56, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 6}</string>
+			<key>spriteSize</key>
+			<string>{56, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 178}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 15}, {56, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 9}</string>
+			<key>spriteSize</key>
+			<string>{56, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 1176}, {56, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 16}, {60, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 6}</string>
+			<key>spriteSize</key>
+			<string>{60, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 916}, {60, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 16}, {60, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 5}</string>
+			<key>spriteSize</key>
+			<string>{60, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 1148}, {60, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 15}, {56, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 6}</string>
+			<key>spriteSize</key>
+			<string>{56, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 772}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 15}, {54, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{758, 682}, {54, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 15}, {54, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{54, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{698, 100}, {54, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 15}, {54, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{54, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{570, 418}, {54, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 14}, {52, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 306}, {52, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 14}, {52, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 98}, {52, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 14}, {54, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 5}</string>
+			<key>spriteSize</key>
+			<string>{54, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 284}, {54, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 15}, {56, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 9}</string>
+			<key>spriteSize</key>
+			<string>{56, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 1322}, {56, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 15}, {58, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 7}</string>
+			<key>spriteSize</key>
+			<string>{58, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 1142}, {58, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 14}, {56, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 9}</string>
+			<key>spriteSize</key>
+			<string>{56, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 1078}, {56, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 13}, {52, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 5}</string>
+			<key>spriteSize</key>
+			<string>{52, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{646, 914}, {52, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpRight0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 13}, {54, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 3}</string>
+			<key>spriteSize</key>
+			<string>{54, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 0}, {54, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 14}, {56, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{56, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 720}, {56, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 14}, {56, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{56, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{700, 696}, {56, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 13}, {56, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 4}</string>
+			<key>spriteSize</key>
+			<string>{56, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{810, 96}, {56, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 13}, {56, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 8}</string>
+			<key>spriteSize</key>
+			<string>{56, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 1228}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 14}, {54, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 8}</string>
+			<key>spriteSize</key>
+			<string>{54, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1028, 266}, {54, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 14}, {50, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSize</key>
+			<string>{50, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 0}, {50, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 13}, {50, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{50, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 636}, {50, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 13}, {50, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{50, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 294}, {50, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 14}, {52, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{634, 408}, {52, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 15}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{696, 300}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 14}, {52, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 196}, {52, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 14}, {50, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 4}</string>
+			<key>spriteSize</key>
+			<string>{50, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 820}, {50, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 14}, {50, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 7}</string>
+			<key>spriteSize</key>
+			<string>{50, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{876, 744}, {50, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 15}, {48, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 8}</string>
+			<key>spriteSize</key>
+			<string>{48, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{978, 368}, {48, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 15}, {52, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 860}, {52, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 14}, {56, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 7}</string>
+			<key>spriteSize</key>
+			<string>{56, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1032, 0}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 13}, {56, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{56, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{646, 598}, {56, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>willyRunUpUpUp0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 14}, {54, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{54, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 204}, {54, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>Untitled 3</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>willieRun</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>willieRun</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
